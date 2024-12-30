@@ -13,13 +13,13 @@ I'm a passionate developer with expertise in a wide range of technologies, inclu
 
 ## 💻 What I'm Working On
 - 🔭 Learning **Flutter** to enhance my mobile development skills.
-- 🌱 Starting to explore **C# programming**.
+- 🌱 Starting to explore **Web Scraping with python**.
 - 🚀 Building innovative solutions for my IT agency **Devosys Software**.
 
 ---
 
 ## 📈 GitHub Stats
-![Bhautik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Bhautik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhautik58&show_icons=true&theme=radical)
 
 ---
 
@@ -41,6 +41,6 @@ I'm a passionate developer with expertise in a wide range of technologies, inclu
 
 ## 📫 Let's Connect!
 - 🌐 [Website](#)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~YOURPROFILE)
-- 📷 [Instagram](https://www.instagram.com/Devosys_Software/)
-- ✉️ [Email](mailto:your-email@example.com)
+- 💼 [Upwork](https://www.upwork.com/freelancers/bhautik5898)
+- 📷 [Instagram](https://www.instagram.com/devosys_software?igsh=azExdWRwZWg3cHQy)
+- ✉️ [Email](mailto:bhautikdobariya98@gmail.com)
